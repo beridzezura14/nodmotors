@@ -220,7 +220,6 @@ a:hover {
 
 .car-menu {
 	display: flex;
-
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
@@ -323,7 +322,7 @@ footer {
 	}
 
 	.hero-div{
-		margin-top: -30px;
+		margin-top: 30px;
 	}
 	.small{
 		font-size: 12px;
